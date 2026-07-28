@@ -104,7 +104,7 @@
     "@prisma/client": "^6.19.3",
     "@react-email/components": "^0.5.1",
     "@react-email/render": "^1.2.1",
-    "@slack/oauth": "3.0.5",
+    "@slack/oauth": "4.0.0",
     "@slack/web-api": "^7.15.0",
     "@smithy/node-http-handler": "4.5.1",
     "@types/bcryptjs": "^2.4.6",
